@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning front-end's frameworks
 - 📫 How to reach me - grzegorz.roczniak10@gmail.com
 
-https://github.com/grzegorzroczniak555
-https://edabit.com/user/dQoeRxSkKb7htBqhw
+- https://github.com/grzegorzroczniak555
+- https://edabit.com/user/dQoeRxSkKb7htBqhw
 
 <!---
 grzegorzroczniak555/grzegorzroczniak555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
